@@ -1,128 +1,132 @@
-[
-	{
-		"name": "SSOH v3",
-		"author": "icedcave",
-		"graphics": [true, false, false],
-		"date": "28/06/2021",
-		"thumbnail": "https://i.ytimg.com/vi/REHYDi6Sjhc/hq720.jpg",
-		"yt_link": "https://www.youtube.com/watch?v=REHYDi6Sjhc",
-		"download_link": "https://www.mediafire.com/file/zpxxqjz1232hlmq/ssohv3.2.zip/file"
-	},
-	{
-		"name": "Supernova TP",
-		"author": "RetroAdvance64",
-		"graphics": [true, true, false],
-		"date": "27/03/2022",
-		"thumbnail": "https://i.ytimg.com/vi/ydOhbZIldqQ/hq720.jpg",
-		"yt_link": "https://www.youtube.com/watch?v=ydOhbZIldqQ",
-		"download_link": "https://www.youtube.com/watch?v=ydOhbZIldqQ"
-	},
-	{
-		"name": "Omni TP",
-		"author": "GD Alen",
-		"graphics": [true, false, false],
-		"date": "01/01/2018",
-		"thumbnail": "https://i.ytimg.com/vi/TB1wsUdBDeU/hq720.jpg",
-		"yt_link": "https://www.youtube.com/watch?v=TB1wsUdBDeU",
-		"download_link": "https://yadi.sk/d/xfAVx7trgS7ocQ"
-	},
-	{
-		"name": "Gamma 2",
-		"author": "Jobet",
-		"graphics": [true, true, false],
-		"date": "05/07/2018",
-		"thumbnail": "https://i.ytimg.com/vi/WnUBTe7FqlM/hq720.jpg",
-		"yt_link": "https://www.youtube.com/watch?v=WnUBTe7FqlM",
-		"download_link": "https://www.youtube.com/watch?v=WnUBTe7FqlM"
-	},
-	{
-		"name": "Cryogen TP",
-		"author": "Cryogen",
-		"graphics": [true, false, false],
-		"date": "15/03/2021",
-		"thumbnail": "https://i.ytimg.com/vi/quCCXly3Xjc/hq720.jpg",
-		"yt_link": "https://www.youtube.com/watch?v=quCCXly3Xjc",
-		"download_link": "https://www.youtube.com/watch?v=quCCXly3Xjc"
-	},
-	{
-		"name": "Ashene TP",
-		"author": "Irving Soluble",
-		"graphics": [true, true, false],
-		"date": "19/04/2021",
-		"thumbnail": "https://i.ytimg.com/vi/_vh1Sx5n42U/hq720.jpg",
-		"yt_link": "https://www.youtube.com/watch?v=_vh1Sx5n42U",
-		"download_link": "https://solubletexturepacks.com/texture-packs/ashene-texture-pack/"
-	},
-	{
-		"name": "Dolphy's TP",
-		"author": "Senya TP",
-		"graphics": [true, true, false],
-		"date": "8/03/2020",
-		"thumbnail": "https://i.ytimg.com/vi/FAuL1T36kHI/hq720.jpg",
-		"yt_link": "https://www.youtube.com/watch?v=FAuL1T36kHI",
-		"download_link": "https://www.mediafire.com/file/bbau2ukn0oikwre/dolphyNEWpc.zip/file"
-	},
-	{
-		"name": "Blank TP",
-		"author": "cosmo",
-		"graphics": [true, false, false],
-		"date": "02/10/2022",
-		"thumbnail": "https://i.ytimg.com/vi/PMECrNyKVhQ/hq720.jpg",
-		"yt_link": "https://www.youtube.com/watch?v=PMECrNyKVhQ",
-		"download_link": "https://drive.google.com/file/d/16GaGLp7WTcgfm-I4GzxZiKcHsehm-rzU/view?usp=sharing"
-	},
-	{
-		"name": "Cursed's TP",
-		"author": "Umyo",
-		"graphics": [true, false, false],
-		"date": "14/11/2020",
-		"thumbnail": "https://i.ytimg.com/vi/l7xRzZYBB4A/hq720.jpg",
-		"yt_link": "https://www.youtube.com/watch?v=l7xRzZYBB4A",
-		"download_link": "https://www.mediafire.com/file/r75x0628zbbm45k/Cursed_TP.zip/file"
-	},
-	{
-		"name": "Fortier TP",
-		"author": "forty",
-		"graphics": [true, false, false],
-		"date": "20/11/2022",
-		"thumbnail": "https://i.ytimg.com/vi/dnpO_C-X_v8/hq720.jpg",
-		"yt_link": "https://www.youtube.com/watch?v=dnpO_C-X_v8",
-		"download_link": "https://www.mediafire.com/file/f79b17jaaffvuiq/Fortier_V1.0.zip/file"
-	},
-	{
-		"name": "Denni TP",
-		"author": "denni",
-		"graphics": [true, true, false],
-		"date": "10/05/2022",
-		"thumbnail": "https://i.ytimg.com/vi/JPjOCsAuYt4/hq720.jpg",
-		"yt_link": "https://www.youtube.com/watch?v=JPjOCsAuYt4",
-		"download_link": "https://www.mediafire.com/file/3761yh5xo4zory0/Denni_TP_2.11.zip/file"
-	},
-	{
-		"name": "Swiborg TP Recreation",
-		"author": "miho & swiborg",
-		"graphics": [true, false, false],
-		"date": "26/11/2022",
-		"thumbnail": "https://i.ytimg.com/vi/2zuZlvPoykQ/hq720.jpg",
-		"yt_link": "https://www.youtube.com/watch?v=2zuZlvPoykQ",
-		"download_link": "https://drive.google.com/drive/folders/1G20FxrHzRQvaAHfbhsWGxUt611Hu3PXx"
-	},
-	{
-		"name": "Futura UI",
-		"author": "riizal",
-		"graphics": [true, true, false],
-		"date": "19/11/2021",
-		"thumbnail": "https://i.ytimg.com/vi/ApBC1seoTzA/hq720.jpg",
-		"yt_link": "https://www.youtube.com/watch?v=ApBC1seoTzA",
-		"download_link": "https://www.youtube.com/watch?v=zRrqfcNrL08"
-	},
-	{
-		"name": "San Juan MixTP",
-		"author": "Agguss",
-		"graphics": [true, true, false],
-		"date": "22/06/2021",
-		"thumbnail": "https://i.ytimg.com/vi/Aow9r9dH2tI/hq720.jpg",
-		"yt_link": "https://www.youtube.com/watch?v=Aow9r9dH2tI",
-		"download_link": "https://www.youtube.com/watch?v=Aow9r9dH2tI"
-	}
-]
+{
+	"ui": [
+		{
+			"name": "SSOH v3",
+			"author": "icedcave",
+			"graphics": [true, false, false],
+			"date": "28/06/2021",
+			"thumbnail": "https://i.ytimg.com/vi/REHYDi6Sjhc/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=REHYDi6Sjhc",
+			"download_link": "https://www.mediafire.com/file/zpxxqjz1232hlmq/ssohv3.2.zip/file"
+		},
+		{
+			"name": "Supernova TP",
+			"author": "RetroAdvance64",
+			"graphics": [true, true, false],
+			"date": "27/03/2022",
+			"thumbnail": "https://i.ytimg.com/vi/ydOhbZIldqQ/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=ydOhbZIldqQ",
+			"download_link": "https://www.youtube.com/watch?v=ydOhbZIldqQ"
+		},
+		{
+			"name": "Omni TP",
+			"author": "GD Alen",
+			"graphics": [true, false, false],
+			"date": "01/01/2018",
+			"thumbnail": "https://i.ytimg.com/vi/TB1wsUdBDeU/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=TB1wsUdBDeU",
+			"download_link": "https://yadi.sk/d/xfAVx7trgS7ocQ"
+		},
+		{
+			"name": "Gamma 2",
+			"author": "Jobet",
+			"graphics": [true, true, false],
+			"date": "05/07/2018",
+			"thumbnail": "https://i.ytimg.com/vi/WnUBTe7FqlM/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=WnUBTe7FqlM",
+			"download_link": "https://www.youtube.com/watch?v=WnUBTe7FqlM"
+		},
+		{
+			"name": "Ashene TP",
+			"author": "Irving Soluble",
+			"graphics": [true, true, false],
+			"date": "19/04/2021",
+			"thumbnail": "https://i.ytimg.com/vi/_vh1Sx5n42U/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=_vh1Sx5n42U",
+			"download_link": "https://solubletexturepacks.com/texture-packs/ashene-texture-pack/"
+		},
+		{
+			"name": "Dolphy's TP",
+			"author": "Senya TP",
+			"graphics": [true, true, false],
+			"date": "8/03/2020",
+			"thumbnail": "https://i.ytimg.com/vi/FAuL1T36kHI/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=FAuL1T36kHI",
+			"download_link": "https://www.mediafire.com/file/bbau2ukn0oikwre/dolphyNEWpc.zip/file"
+		},
+		{
+			"name": "Blank TP",
+			"author": "cosmo",
+			"graphics": [true, false, false],
+			"date": "02/10/2022",
+			"thumbnail": "https://i.ytimg.com/vi/PMECrNyKVhQ/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=PMECrNyKVhQ",
+			"download_link": "https://drive.google.com/file/d/16GaGLp7WTcgfm-I4GzxZiKcHsehm-rzU/view?usp=sharing"
+		},
+		{
+			"name": "Fortier TP",
+			"author": "forty",
+			"graphics": [true, false, false],
+			"date": "20/11/2022",
+			"thumbnail": "https://i.ytimg.com/vi/dnpO_C-X_v8/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=dnpO_C-X_v8",
+			"download_link": "https://www.mediafire.com/file/f79b17jaaffvuiq/Fortier_V1.0.zip/file"
+		},
+		{
+			"name": "Denni TP",
+			"author": "denni",
+			"graphics": [true, true, false],
+			"date": "10/05/2022",
+			"thumbnail": "https://i.ytimg.com/vi/JPjOCsAuYt4/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=JPjOCsAuYt4",
+			"download_link": "https://www.mediafire.com/file/3761yh5xo4zory0/Denni_TP_2.11.zip/file"
+		},
+		{
+			"name": "Swiborg TP Recreation",
+			"author": "miho & swiborg",
+			"graphics": [true, false, false],
+			"date": "26/11/2022",
+			"thumbnail": "https://i.ytimg.com/vi/2zuZlvPoykQ/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=2zuZlvPoykQ",
+			"download_link": "https://drive.google.com/drive/folders/1G20FxrHzRQvaAHfbhsWGxUt611Hu3PXx"
+		},
+		{
+			"name": "Futura UI",
+			"author": "riizal",
+			"graphics": [true, true, false],
+			"date": "19/11/2021",
+			"thumbnail": "https://i.ytimg.com/vi/ApBC1seoTzA/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=ApBC1seoTzA",
+			"download_link": "https://www.youtube.com/watch?v=zRrqfcNrL08"
+		},
+		{
+			"name": "San Juan MixTP",
+			"author": "Agguss",
+			"graphics": [true, true, false],
+			"date": "22/06/2021",
+			"thumbnail": "https://i.ytimg.com/vi/Aow9r9dH2tI/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=Aow9r9dH2tI",
+			"download_link": "https://www.youtube.com/watch?v=Aow9r9dH2tI"
+		}
+	],
+	"icon": [
+		{
+			"name": "Cryogen TP",
+			"author": "Cryogen",
+			"graphics": [true, false, false],
+			"date": "15/03/2021",
+			"thumbnail": "https://i.ytimg.com/vi/quCCXly3Xjc/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=quCCXly3Xjc",
+			"download_link": "https://www.youtube.com/watch?v=quCCXly3Xjc"
+		},
+		{
+			"name": "Cursed's TP",
+			"author": "Umyo",
+			"graphics": [true, false, false],
+			"date": "14/11/2020",
+			"thumbnail": "https://i.ytimg.com/vi/l7xRzZYBB4A/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=l7xRzZYBB4A",
+			"download_link": "https://www.mediafire.com/file/r75x0628zbbm45k/Cursed_TP.zip/file"
+		}
+	]
+}	
