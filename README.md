@@ -4,7 +4,7 @@
 This website is still WIP, dont expect anything serious, ok?
 
 - [X] Website
-- [ ] More tps
+- [X] More tps (i think it's done, but it doesn't mean i dont accept requests anymore, ok?)
 - [ ] Cool Kid Styling (im bad at css)
 
 ## Overview
