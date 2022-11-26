@@ -115,5 +115,14 @@
 		"thumbnail": "https://i.ytimg.com/vi/ApBC1seoTzA/hq720.jpg",
 		"yt_link": "https://www.youtube.com/watch?v=ApBC1seoTzA",
 		"download_link": "https://www.youtube.com/watch?v=zRrqfcNrL08"
+	},
+	{
+		"name": "San Juan MixTP",
+		"author": "Agguss",
+		"graphics": [true, true, false],
+		"date": "22/06/2021",
+		"thumbnail": "https://i.ytimg.com/vi/Aow9r9dH2tI/hq720.jpg",
+		"yt_link": "https://www.youtube.com/watch?v=Aow9r9dH2tI",
+		"download_link": "https://www.youtube.com/watch?v=Aow9r9dH2tI"
 	}
 ]
