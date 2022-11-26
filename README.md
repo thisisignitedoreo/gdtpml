@@ -12,6 +12,6 @@ This website is for sharing GD Texture packs (as name suggests), to submit new w
 
 ## Texture pack adding requirements
 - Real texture pack (not just video/clip of it)
-- It can be not by you, just tell im about it
+- It can be not by you, just tell me about it
 
 Thats all! Im ready for your requests ;)
