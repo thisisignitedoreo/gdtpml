@@ -107,6 +107,15 @@
 			"thumbnail": "https://i.ytimg.com/vi/Aow9r9dH2tI/hq720.jpg",
 			"yt_link": "https://www.youtube.com/watch?v=Aow9r9dH2tI",
 			"download_link": "https://www.youtube.com/watch?v=Aow9r9dH2tI"
+		},
+		{
+			"name": "Crazen's TP",
+			"author": "Soluble & Senya TP",
+			"graphics": [true, true, false],
+			"date": "21/07/2020",
+			"thumbnail": "https://i.ytimg.com/vi/0-vZC1BvyYI/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=0-vZC1BvyYI",
+			"download_link": "https://solubletexturepacks.com/texture-packs/crazen-texture-pack/"
 		}
 	],
 	"icon": [
