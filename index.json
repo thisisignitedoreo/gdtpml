@@ -134,6 +134,15 @@
 			"thumbnail": "https://i.ytimg.com/vi/9TXrg7PtIu0/hq720.jpg",
 			"yt_link": "https://www.youtube.com/watch?v=9TXrg7PtIu0",
 			"download_link": "https://cdn.discordapp.com/attachments/774526060087476234/1066611923166175272/PLUTON_PACK.zip"
+		},
+		{
+			"name": "Quarter TP",
+			"author": "Selaizy",
+			"graphics": [true, false, false],
+			"date": "26/01/2023",
+			"thumbnail": "https://i.ytimg.com/vi/mAEXCir81II/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=mAEXCir81II",
+			"download_link": "https://drive.google.com/drive/folders/1EwfKzNCm95NkK86vQKk1RfWS5tb-etaF"
 		}
 	],
 	"icon": [
