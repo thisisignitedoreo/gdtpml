@@ -3,6 +3,10 @@ import datetime
 
 is_christmas = datetime.datetime.now().month in (12, 1)
 
+debug_info = {
+	"latest_build": datetime.datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+}
+
 with open("index.json", "r") as f:
 	tps = json.load(f)
 
@@ -108,13 +112,14 @@ for i in tps["ui"] + tps["icon"]:
 				{'<p><a href="{i["yt_link"]}">YT Video</a></p>' if i["yt_link"] != "" else ""}
 			</div>"""
 
-html += """
+html += f"""
 		</div>
 		<h1><a href="javascript:void" onclick="set_page(0)">UI & ICONS</a> /
 			<a href="javascript:void" onclick="set_page(1)">ICONS ONLY</a> /
 			<a href="javascript:void" onclick="set_page(2)">EVERYTHING</a></h1>
 		<p>Website by acid / cosmo / ignitedoreo. Submit new TP - <strong>acid#9519</strong></p>
-	</div>
+		<p>Debug info: {debug_info}</p>
+	</div>""" + """
 	<script>
 		function set_page(page_number) {
 			if (page_number === 0) {
