@@ -116,6 +116,24 @@
 			"thumbnail": "https://i.ytimg.com/vi/0-vZC1BvyYI/hq720.jpg",
 			"yt_link": "https://www.youtube.com/watch?v=0-vZC1BvyYI",
 			"download_link": "https://solubletexturepacks.com/texture-packs/crazen-texture-pack/"
+		},
+		{
+			"name": "Temmie TP",
+			"author": "Mark Napkin",
+			"graphics": [true, false, false],
+			"date": "03/02/2023",
+			"thumbnail": "https://i.ytimg.com/vi/odKSo-LgZfs/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=odKSo-LgZfs",
+			"download_link": "https://drive.google.com/file/d/1Vi6jmvj32AtyH8F9XMD_diencFXLWonH/view"
+		},
+		{
+			"name": "Pluton TP",
+			"author": "Trunith",
+			"graphics": [true, false, false],
+			"date": "22/01/2023",
+			"thumbnail": "https://i.ytimg.com/vi/9TXrg7PtIu0/hq720.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=9TXrg7PtIu0",
+			"download_link": "https://cdn.discordapp.com/attachments/774526060087476234/1066611923166175272/PLUTON_PACK.zip"
 		}
 	],
 	"icon": [
@@ -136,6 +154,15 @@
 			"thumbnail": "https://i.ytimg.com/vi/l7xRzZYBB4A/hq720.jpg",
 			"yt_link": "https://www.youtube.com/watch?v=l7xRzZYBB4A",
 			"download_link": "https://www.mediafire.com/file/r75x0628zbbm45k/Cursed_TP.zip/file"
+		},
+		{
+			"name": "Rito x Aqours and μ's TP",
+			"author": "ゆ.うItsRito47",
+			"graphics": [true, false, false],
+			"date": "02/02/2023",
+			"thumbnail": "https://i1.ytimg.com/vi/3hTblditQlQ/hqdefault.jpg",
+			"yt_link": "https://www.youtube.com/watch?v=3hTblditQlQ",
+			"download_link": "https://drive.google.com/file/d/1EyNQY6_tWxmIUPwMfwaEym_UqZeOCotY/view"
 		}
 	]
 }	
