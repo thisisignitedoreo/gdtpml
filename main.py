@@ -109,7 +109,7 @@ for i in sorted(tps["ui"] + tps["icon"], key=lambda x: x["name"]):
 				{i["date"]}</h1>
 				<span style="color: {"green" if i["graphics"][0] else "red"};">High</span> / <span style="color: {"green" if i["graphics"][1] else "red"};">Medium</span> / <span style="color: {"green" if i["graphics"][2] else "red"};">Low</span>
 				<h1><a href="{i["download_link"]}">Download</a></h1>
-				{'<p><a href="{i["yt_link"]}">YT Video</a></p>' if i["yt_link"] != "" else ""}
+				{f'<p><a href="{i["yt_link"]}">YT Video</a></p>' if i["yt_link"] != "" else ""}
 			</div>"""
 
 html += f"""
@@ -134,7 +134,7 @@ for i in sorted(tps["ui"], key=lambda x: x["name"]):
 				{i["date"]}</h1>
 				<span style="color: {"green" if i["graphics"][0] else "red"};">High</span> / <span style="color: {"green" if i["graphics"][1] else "red"};">Medium</span> / <span style="color: {"green" if i["graphics"][2] else "red"};">Low</span>
 				<h1><a href="{i["download_link"]}">Download</a></h1>
-				{'<p><a href="{i["yt_link"]}">YT Video</a></p>' if i["yt_link"] != "" else ""}
+				{f'<p><a href="{i["yt_link"]}">YT Video</a></p>' if i["yt_link"] != "" else ""}
 			</div>"""
 
 html += """`
@@ -151,7 +151,7 @@ for i in sorted(tps["icon"], key=lambda x: x["name"]):
 				{i["date"]}</h1>
 				<span style="color: {"green" if i["graphics"][0] else "red"};">High</span> / <span style="color: {"green" if i["graphics"][1] else "red"};">Medium</span> / <span style="color: {"green" if i["graphics"][2] else "red"};">Low</span>
 				<h1><a href="{i["download_link"]}">Download</a></h1>
-				{'<p><a href="{i["yt_link"]}">YT Video</a></p>' if i["yt_link"] != "" else ""}
+				{f'<p><a href="{i["yt_link"]}">YT Video</a></p>' if i["yt_link"] != "" else ""}
 			</div>"""
 
 html += """`
@@ -168,7 +168,7 @@ for i in sorted(tps["ui"] + tps["icon"], key=lambda x: x["name"]):
 				{i["date"]}</h1>
 				<span style="color: {"green" if i["graphics"][0] else "red"};">High</span> / <span style="color: {"green" if i["graphics"][1] else "red"};">Medium</span> / <span style="color: {"green" if i["graphics"][2] else "red"};">Low</span>
 				<h1><a href="{i["download_link"]}">Download</a></h1>
-				{'<p><a href="{i["yt_link"]}">YT Video</a></p>' if i["yt_link"] != "" else ""}
+				{f'<p><a href="{i["yt_link"]}">YT Video</a></p>' if i["yt_link"] != "" else ""}
 			</div>"""
 
 html += """`
