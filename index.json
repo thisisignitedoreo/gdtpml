@@ -143,6 +143,24 @@
 			"thumbnail": "https://i.ytimg.com/vi/mAEXCir81II/hq720.jpg",
 			"yt_link": "https://www.youtube.com/watch?v=mAEXCir81II",
 			"download_link": "https://drive.google.com/drive/folders/1EwfKzNCm95NkK86vQKk1RfWS5tb-etaF"
+		},
+		{
+			"name": "Minecraft TP",
+			"author": "@LastcircleREAL (TG)",
+			"graphics": [true, false, false],
+			"date": "26/01/2023",
+			"thumbnail": "https://telegra.ph/file/b4d5ea8929705cccb09aa.jpg",
+			"yt_link": "",
+			"download_link": "https://drive.google.com/file/d/1NwJUtY3UYOZ17RVlYDORr-EMxRR2Gv6P/view"
+		},
+		{
+			"name": "Ketsu TP",
+			"author": "?",
+			"graphics": [true, true, false],
+			"date": "31/10/2022",
+			"thumbnail": "https://telegra.ph/file/a9917b0160ac20219432e.jpg",
+			"yt_link": "",
+			"download_link": "https://drive.google.com/file/d/1Ng0BVzHbAdbHs600I5TnCSrijwczFYE0/view"
 		}
 	],
 	"icon": [
